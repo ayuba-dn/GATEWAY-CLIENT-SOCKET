@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "royalride-285223",
+  "private_key_id": "09ef055c14c539611f209627ef373aae152767c2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQD4xU8y57MU6FjM\nkvnGAaIAWpQFVOu4xue1K1zbWunUQM0TquZdwhL0ncqriQyi9N8N4rxc6SHBYdEP\nlQFtUBSzyDke0Gyz57rj88Y6X5624vMZODcm7eDZzuqIzA5ky/i2aPmlznfID8DX\nQowYCXvg2XhxAUOz0muPOgbcJa/galy68ISk7ndUxAzQvV+hF9weB2eIo0UVexiD\nSW/DMhmY5Vg7uOXnz0EUKEVpzetChsoTwJqLHhIKOYKo2DmI5ox4+u8QxYDe3Nay\ntH5JCQuPyMbLdGbjkrApQSQaafZgQksnCDYyG3pvdAwoOCtJtqDYhPRyM+FaLCC4\ndyacrnGVAgMBAAECggEAMHvd+2Uaayr8cYR8nxle3jRJEH/0QAsuCgplOtAtbeNi\nRKDEbIYARUICh6t6dcEFPvLPdMkv/b1HbkLDaC9ZFY/iiA2lfeueKkKuwd40c97n\n86SX5SOr9K9F2PryHDV/p+duLmE+yZQ+aIWtAZtJlDE2LsoJDKEoOt4bi6jhrfoS\ncZDP88tUmYrlH7moPIFRnSW+TBle3gO2MSr53ZRRKFixt3ch7iqEEWyvvePsIE+V\ngFtOkSuBo4lWxqE/Cqju5YwA1RHQfuEjvBZ6FtwhQrPKno0QTuR+9siWhcVGByAG\nUadTlGAGRHIksVvWvGSv9TCjHE8rACloJg3lQ0RDiQKBgQD9jUG+EFL9djpOxjz1\nfnrDNJpw8wV68aYaz8YFiP0k9vAq7non/ZmJ5KXzk34a0noTfgHTCf58u+H9gXP1\nDieRiLGop4QAQdTC8Snawk8iN+SvoCqo7YbAkPRLlTjnrqsq2LfuqWEl1NaF9kLr\nfJVbTgJH9vUWeCve+HDv1YOzCQKBgQD7LDwJPDqAcNmCQuf0rpINKZhYwGdzGNJt\nKnpuHpq8z39lG3tu4rrf1pwWEYEnZzYuJUonDaLTkp4fyzCfxpU9gC9AhvTHGsbL\nwNDW9YM/ajgNhY57L1FFeierpxAUyzGcd3fiUxi6hYMexmIjnyTDFfXeNA7jq0Ll\nwpGdSblxLQKBgAbaCVvEfymgR0UXsFAGAfVCd6Xzu0MuQonY8YX2xLh5/9V5Kk3o\nWXzTc/SYGMFKzMe4EP6N95WRUjMSi3qkzkbthbeEB1ombURzVek2dQL8ta5VSrHT\n8V9Ey4U7XBVOsAtxXc8SPrDSBpYKKJbKgBK+kes17juUNcNJvWuNvohZAoGBAO2i\n40ZFkn/0xQVmMbkg9RO49+d4WifeIzCfkOfg0ruygbByOO0nXHDsxg5nD0/taaht\nJWQflZ8gx7QC9QUlyAtA3PPq+2npHo6l5bCK5ls4LsI0SyKnGPhn42KXFDLoMA7+\nRRF/VxUZvn1+almTdx+QBmftzux+GzPwSv6KQwYdAoGBAKuxO07iJoZLAdH+Y2iR\nz3vqJPBoAzDfN3qzwCcAsjwefgpHpCJs91W9hqFugsuekzq8JeNTjc2arw3b2tTr\nTBKXHlVDn0r98Vr0OwL6WfJVCR9h1nqu1e8xl6C4lnNKaHB0rPmausIBXMm3VSIN\nW1dH9miwjF6ipwd7yeMy7FMd\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-obcsz@royalride-285223.iam.gserviceaccount.com",
+  "client_id": "115468000119478565481",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-obcsz%40royalride-285223.iam.gserviceaccount.com"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "uiapi",
+  "version": "1.0.0",
+  "description": "Royal Ride UI API Microservice",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "npm install && node src/server.js"
+  },
+  "author": "Shams&Ayuba",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.1.7-alpha.4",
+    "firebase-admin": "^9.0.0",
+    "helmet": "^3.23.3",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.9.20",
+    "nodemon": "^2.0.4",
+    "socket.io": "^2.3.0",
+    "uuid": "^8.2.0"
+  }
+}
